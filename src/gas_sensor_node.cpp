@@ -1,7 +1,10 @@
-//          Copyright Emil Fresk 2015-2017.
+//          Copyright Dariusz Kominiak 2015-2018.
 // Distributed under the Boost Software License, Version 1.0.
 //    (See accompanying file LICENSE.md or copy at
 //          http://www.boost.org/LICENSE_1_0.txt)
+
+// Based on Emil's Fresk ROS node for parsing a Sonar Array
+//          ROS node for parsing a Sonar Array
 
 #include <ros/ros.h>
 #include <gas_sensor/multi_gas_sensor_msg.h>

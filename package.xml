@@ -4,8 +4,8 @@
   <version>1.0.0</version>
   <description>Package for communicating with a set of sonars and converting the data into ROS messages.</description>
 
-  <maintainer email="emil.fresk@gmail.com">Emil Fresk</maintainer>
-  <author email="emil.fresk@gmail.com">Emil Fresk</author>
+  <maintainer email="dariusz.kominiak@ltu.se">Dariusz Kominiak</maintainer>
+  <author email="dariusz.kominiak@ltu.se">Dariusz Kominiak</author>
   <license>Boost Software License 1.0</license>
 
 
